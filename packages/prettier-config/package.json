@@ -1,0 +1,12 @@
+{
+    "name": "@tientq64/prettier-config",
+    "version": "0.1.0",
+    "description": "@tientq64's prettier configuration",
+    "files": ["index.json"],
+    "main": "index.json",
+    "license": "MIT",
+    "peerDependencies": {
+        "prettier": "^3.8.1",
+        "prettier-plugin-jsdoc": "^1.8.0"
+    }
+}

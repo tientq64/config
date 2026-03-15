@@ -1,0 +1,20 @@
+{
+    "$schema": "https://json.schemastore.org/prettierrc",
+    "arrowParens": "always",
+    "endOfLine": "lf",
+    "jsxSingleQuote": false,
+    "objectWrap": "preserve",
+    "printWidth": 100,
+    "proseWrap": "preserve",
+    "quoteProps": "as-needed",
+    "semi": false,
+    "singleAttributePerLine": false,
+    "singleQuote": true,
+    "tabWidth": 4,
+    "trailingComma": "none",
+    "useTabs": false,
+    "plugins": ["prettier-plugin-jsdoc"],
+    "jsdocDescriptionWithDot": true,
+    "jsdocCommentLineStrategy": "multiline",
+    "jsdocCapitalizeDescription": true
+}
